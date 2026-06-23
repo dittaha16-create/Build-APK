@@ -1,0 +1,6 @@
+{
+  "name": "Android Khata Accounting App",
+  "description": "A feature-rich offline-first Khata book and business accounting simulator with PDF invoicing, Bluetooth thermal printing layout, bilingual English/Urdu support, and complete native Android project source-code templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
